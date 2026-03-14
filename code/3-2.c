@@ -8,7 +8,7 @@ int main() {
         printf("a < b\n");
     
     } else {
-        printf("a >= b \n");
+        printf("a >= b %u\n");
     }
 
     return 0;
